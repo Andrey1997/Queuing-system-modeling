@@ -1,0 +1,16 @@
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\bin\Debug\net5.0\Queuing system modeling.exe
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\bin\Debug\net5.0\Queuing system modeling.deps.json
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\bin\Debug\net5.0\Queuing system modeling.runtimeconfig.json
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\bin\Debug\net5.0\Queuing system modeling.runtimeconfig.dev.json
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\bin\Debug\net5.0\Queuing system modeling.dll
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\bin\Debug\net5.0\ref\Queuing system modeling.dll
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\bin\Debug\net5.0\Queuing system modeling.pdb
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\Queuing system modeling.csproj.AssemblyReference.cache
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\Queuing system modeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\Queuing system modeling.AssemblyInfoInputs.cache
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\Queuing system modeling.AssemblyInfo.cs
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\Queuing system modeling.csproj.CoreCompileInputs.cache
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\Queuing system modeling.dll
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\ref\Queuing system modeling.dll
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\Queuing system modeling.pdb
+C:\Users\gglir\Desktop\Queuing system modeling\Queuing system modeling\Queuing system modeling\obj\Debug\net5.0\Queuing system modeling.genruntimeconfig.cache

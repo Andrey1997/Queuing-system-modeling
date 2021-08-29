@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queuing system modeling", "Queuing system modeling\Queuing system modeling.csproj", "{E54BDADD-C185-4D77-AD39-227A28513DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54BDADD-C185-4D77-AD39-227A28513DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54BDADD-C185-4D77-AD39-227A28513DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54BDADD-C185-4D77-AD39-227A28513DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54BDADD-C185-4D77-AD39-227A28513DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2148F6E-412D-4351-B458-3EFACBB7E4C1}
+	EndGlobalSection
+EndGlobal

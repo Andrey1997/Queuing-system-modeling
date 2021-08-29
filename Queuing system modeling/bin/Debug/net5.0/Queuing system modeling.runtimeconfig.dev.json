@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gglir\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gglir\\.nuget\\packages",
+      "D:\\VisualStudio\\Shared\\NuGetPackages"
+    ]
+  }
+}
